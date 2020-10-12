@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":1920,"runtime":"scene/SceneGame.ts","height":1080},"compId":2,"child":[{"type":"Sprite","props":{"name":"scene3d"},"compId":3}],"loadList":[],"loadList3D":[]}
